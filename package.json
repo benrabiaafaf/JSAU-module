@@ -1,0 +1,19 @@
+{
+  "name": "jsau-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benrabiaafaf/JSAU-module.git"
+  },
+  "author": "afef",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benrabiaafaf/JSAU-module/issues"
+  },
+  "homepage": "https://github.com/benrabiaafaf/JSAU-module#readme"
+}
