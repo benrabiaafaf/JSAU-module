@@ -8,7 +8,7 @@ const validate = () => {
 
 }
 
-export { news_categories, validate }
+module.exports = { news_categories, validate }
 
 // const Modules = { news_categories, validate }
 // module.exports = Modules
